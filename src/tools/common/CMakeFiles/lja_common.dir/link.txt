@@ -1,0 +1,2 @@
+/public/home/hnust15831285130/miniconda3/envs/verkko-build/bin/x86_64-conda-linux-gnu-ar qc ../../../lib/liblja_common.a CMakeFiles/lja_common.dir/cl_parser.cpp.o
+/public/home/hnust15831285130/miniconda3/envs/verkko-build/bin/x86_64-conda-linux-gnu-ranlib ../../../lib/liblja_common.a

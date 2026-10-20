@@ -1,0 +1,2 @@
+/public/home/hnust15831285130/miniconda3/envs/verkko-build/bin/x86_64-conda-linux-gnu-ar qc ../../../lib/liblja_sequence.a CMakeFiles/lja_sequence.dir/contigs.cpp.o CMakeFiles/lja_sequence.dir/sequence.cpp.o
+/public/home/hnust15831285130/miniconda3/envs/verkko-build/bin/x86_64-conda-linux-gnu-ranlib ../../../lib/liblja_sequence.a
